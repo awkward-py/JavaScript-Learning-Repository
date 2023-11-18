@@ -1,4 +1,4 @@
-Conditional statements in JavaScript allow you to control the flow of your program based on conditions. These conditions are expressed using logical expressions, and the program executes different blocks of code depending on whether the condition is true or false. Let's go through conditional statements step by step with examples using the name 'awkwardpy'.
+Conditional statements in JavaScript allow you to control the flow of your program based on conditions. These conditions are expressed using logical expressions, and the program executes different blocks of code depending on whether the condition is true or false.
 
 ### 1. **if Statement:**
 
