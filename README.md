@@ -29,7 +29,6 @@ Feel free to explore the concepts in any order that suits your learning path. Th
 
 Your contributions are invaluable! Whether you have additional examples, insights, or corrections, please feel free to open issues or pull requests. Let's collaborate to make this repository an even more enriching resource for the community.
 
-```
 
 These are just a few fundamental concepts in JavaScript. As you progress, you can delve into more advanced topics such as closures, prototypes, and modern ES6+ features. It's essential to practice and build projects to reinforce your learning.
 
