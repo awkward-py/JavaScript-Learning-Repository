@@ -35,7 +35,7 @@ These are just a few fundamental concepts in JavaScript. As you progress, you ca
 These are some of the main aspects of JavaScript that I can explain briefly. There are many more topics and features that JavaScript has, such as events, errors, promises, async/await, generators, iterators, symbols, proxies, etc. If you want to learn more about JavaScript, I suggest you check out some of the web search results that I found using my web search tool. They will provide you with more information and examples on how to use JavaScript effectively and creatively. I hope this helps you understand JavaScript better. 😊
 
 ***
-Source:
+## Source:
 
 (1) JavaScript Tutorial - W3Schools. https://www.w3schools.com/js/DEFAULT.asp.
 
